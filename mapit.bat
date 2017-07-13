@@ -1,0 +1,1 @@
+@py C:\pawanpe\Projects\AutomateBoringStuff\mapit.py %*
