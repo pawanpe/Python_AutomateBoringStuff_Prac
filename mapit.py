@@ -7,4 +7,4 @@ else:
     address = pyperclip.paste()
 
 webbrowser.open('https://maps.google.com/maps/place/' + address)
-webbrowser.open_new_tab('https://www.openstreetmap.org/search?query=' + address)
+#webbrowser.open_new_tab('https://www.openstreetmap.org/search?query=' + address)

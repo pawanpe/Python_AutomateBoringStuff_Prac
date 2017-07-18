@@ -1,1 +1,1 @@
-@py C:\pawanpe\Projects\AutomateBoringStuff\mapit.py %*
+@py C:\pawanpe\Projects\PythonProjects\Python_AutomateBoringStuff_Prac\mapit.py %*
