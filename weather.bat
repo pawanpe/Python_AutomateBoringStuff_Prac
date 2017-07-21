@@ -1,0 +1,1 @@
+@py C:\pawanpe\Projects\PythonProjects\Python_AutomateBoringStuff_Prac\WeatherWithJSON.py %*
